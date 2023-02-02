@@ -7,6 +7,4 @@ Copy addresses at which contract has been deployed and update contractAdress val
 #### `doc-signing-and-verification/src/utils/contract2.js` 
 This sets up the required backend profile
 
-Follow steps in 
-#### `doc-signing-and-verification/README.md` 
-for frontend implementation
+Follow steps in #### `doc-signing-and-verification/README.md` for frontend implementation
