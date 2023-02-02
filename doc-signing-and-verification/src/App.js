@@ -5,7 +5,6 @@ import contractABI1 from './utils/abi_contract_1';
 import contractAddress from './utils/contract1';
 import contractABI2 from './utils/abi_contract_2';
 import contractAddress1 from './utils/contract2';
-import contractABI3 from './utils/abi_contract_3';
 
 
 function App() {
